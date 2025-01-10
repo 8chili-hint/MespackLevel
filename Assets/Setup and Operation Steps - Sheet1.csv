@@ -1,0 +1,78 @@
+Step number,Step Instruction,Step Type,To be assessed
+1,Authorize the entry by placing the finger on the fingerprint sensor ,Detect,No
+2,Enter the room and wear the hand gloves ,Detect,Yes
+3,Confirm if the shoe covers are worn,UI,Yes
+4,Go to the back panel and turn on the electrical supply switch,Detect,No
+5,Grab the MS1 Key and insert it in the slot,Detect,No
+6,Press the power button,Detect,No
+7,Press the reset button,Detect,No
+8,Please ensure that the chill water connection is turned on before starting the machine,UI,No
+9,Enter the username and password,Detect,No
+10,From the main screen please select the setting icon,Detect,No
+11,For general parameters click the setting icon,Detect,No
+12,Initially ensure the following set parameters,Detect,No
+13,Set the operating speed as per the product requirement ,Detect,No
+14,Feeder selection should be off,Detect,No
+15,Sealing selection should be on,Detect,No
+16,Opening gripper 1 & 2 should be on,Detect,No
+17,Opening gripper 3 should be on,Detect,No
+18,Grab the scissors and tear open the base film packaging roll,Detect,No
+19,Grab the base film packaging roll and insert it,Detect,No
+20,Lock the key by rotating it in clockwise and ensure tightness of the locking knob,Detect,No
+21,Draw Sufficient length of the base film and pass it on web index roller till the cutting tool,Detect,No
+22,Set the upper and lower forming heater temperature as per BPR,UI,No
+23,Ensure that the temperature displayed on the temperature control limit is within the range before setting the forming,UI,No
+24,Ensure that the MS1 key is pointed towards the jog mode,Detect,No
+25,Press the start button,Detect,No
+26,Please refer to the change part layout for the pitch length. For this product the pitch length is 180.,UI,No
+27,"Push the jog run button, at the same time turn the MS1 key to the right to increase the length and to the left to decrease the length.",Detect,No
+28,"Adjust the pitch length as per the ""Change part Layout""",UI,No
+29,When the web passes through bottom sealing plate the web length shoul match the bottom sealing plate one is to one,UI,No
+30,Disable the jog run by turning the MS1 key to the centre position,Detect,No
+31,Start the machine in the normal mode and visually inspect the cavity matching,Detect,No
+32,Grab the knob and adjust the third gripper,Detect,No
+33,The blister holes should correctly match with the gripper holes,UI,No
+34,Remove the lidding material holder locking knob by turning in anticlockwise direction,Detect,No
+35,Load the lidding material on the reel holder,Detect,No
+36,Lock the holder by turning the knob in clockwise direction,Detect,No
+37,Draw sufficient length of the coil and pass it on to the dancing guide rollers till the sealing plate,Detect,No
+38,"Turn on the ""Upper sealing plate heaters"" by pressing the ""Manual Sealing"" button",Detect,No
+39,Set the sealing heater temperature as per the BPR applicable,UI,No
+40,Cross check the air pressure at the sealing station to be at 3-6 kg/m²,UI,No
+41,Ensure that the temperature displayed on the temperature controller is within the range before setting the sealing limit (205+20 °C),UI,No
+42,Start the machine,Detect,No
+43,Visually inspect and ensure the proper sealing between two foils,Detect,No
+44,Adjust using the lidding film knob till the proper sealing is achieved between the web and lidding material,Detect,No
+45,Ensure that proper sealing between the two foils is achieved,UI,No
+46,Disable the jog mode,Detect,No
+47,Press the start button and turn the machine on till sufficient blisters samples get connected in the rejection bin,Detect,No
+48,Stop the machine by pressing the stop button,Detect,No
+49,Grab the blister from the rejection bin and visually inspect them .,Grab,No
+50,We noticed that the cutting not uniform and now we shall perform the minor adjustment.,UI,No
+51,Start the machine,Detect,No
+52,Grab the gripper adjustment rod and rotate it to perform the minute adjustment to the web.,Detect,No
+53,Grab the blister from the rejection bin and visually inspect them again. The cutting now should be uniform and the blister should be in the center.,Grab,No
+54,Now we found the cutting is happening as required .,UI,No
+55,Press the stop button and stop the machine,Detect,No
+56,Call the QA and the supervisor for the inspection of the blister,UI,No
+57,Adjust the sensor knob for PRC setting,UI,No
+58,Grab and lift the press box,Grab,No
+59,Grab one broken tablet and place it in the foil,Grab,No
+60,Intentionally leave one or two tablets pockets empty,UI,No
+61,Ensure that the tablets taken out are diagonally opposite to each other. Don't take the tablets from the same track in the blister .,UI,No
+62,Grab one wrong coloured tablet and load in the web,Detect,No
+63,Grab the scissor and cut the appropriate length of the tape and stick to the lidding material.,Detect,No
+64,Press the start button form the HMI,Detect,No
+65,Grab a blue plastic tray and keep in front of the rejection bin,Detect,No
+66,Grab the lock and open the rejection bin,Detect,No
+67,"Check for the presence of the ""odd coloured tablet"" in the pouch",Detect,No
+68,Grab the pressbox and lift it,Detect,No
+69,Grab and remove two tablets intentionally,Grab,No
+70,Grab the plate and block the rejection system,Detect,No
+71,Press the start button,Detect,No
+72,All the tablets with the packing are collected in the overflow bin,UI,No
+73,502 alarm to be shown (undecided),UI,No
+74,Grab the plastic crate and bring it to the table which has the product waste bin,Detect,No
+75,Grab a key and open the product waste bin,Detect,No
+76,Defoil the blisters and pour the testing tablets in the product waste bin,Detect,No
+77,Repeat the same for the challenge test as per the BPR,UI,No

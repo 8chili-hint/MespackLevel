@@ -1,0 +1,54 @@
+Make the operator wear hand gloves
+Grab the machine top cover, and keep it on the SS pallet
+Grab the vacuum clean and dry clean the machine top  cover
+Grab the Lint free cloth and Dip the lint free cloth in 70% v/v IPA
+wipe the machine cover with the dipped lint free cloth
+Grab the ladder and place it near the fette machine
+Grab the lint free cloth and climb the ladder
+Wipe the top surface of the machine with lint free cloth
+Climb down. Discard the lint free cloth
+Move the ladder to the designated place
+Open the acrylic door
+Grab the lint free cloth Dip it in the 70% v/v solution
+Wipe the acrylic door with the solution. *Note* first clean the internal surface
+clean the the external surface using the lint free cloth dipped in 70% IPA solution
+UI Step :- Repeat the step for all the remaining doors
+Grab the nylon brush and Clean the roller station 1 at top position. Exact location to be decided at the time of module development
+UI Step - repeat the same for the remaining 3 upper compression rollers
+Grab the nylon brush and Clean the roller station at the bottom portion or near turret mounting area
+Clean near the bottom portion of the platform near turret mounting area
+Repeat the same for all the three remaining bottom roller ( UI step)
+Dry clean the machine using vacuum cleaner ( make the dust to disapper)
+Grab a nylon brush Dip it in the 70% v/v solution
+Perform the cleaning action at the turret mounting segment. Exact point of cleaning to be decided at the time of development
+Open the bottom door
+Hold the door and place it in the designated corner
+Grab the vacuum cleaner and dry clean the bottom surface
+Grab the lint free cloth and wipe the electrical wires
+Grab the lint free cloth and Dip it in the 70% v/v solution
+Wipe the external surface of the fast gate with dipped cloth
+Grab the lint free cloth and Dip it in the 70% v/v solution
+Wipe the external surface of the FOM gear box with dipped cloth
+Grab the lint free cloth and dip it in the IPA solution
+Wipe the internal surface of the FOM gear box with dipped cloth. Gearbox to be flipped as required
+Grab the tool( screw driver) and Open the cover
+Grab the air gun and clean the inner surface of the sensor by using the compressed air. The dust should disappear at the end of the cleaning cycle
+Install the fast gate sensor cover
+Grab the screw driver and screw back the fast gate sensor cover
+Grab a lint free cloth and dip inthe IPA solution
+CLean the external surface of the fast gate sensor
+Grab the compressed air gun
+Blow it on the MTD outer surface
+Grab the lock key and open the circuit panel board
+Grab the compressed air line and blow the air on the circuit board
+UI Step - Repeat the same procedure for the remaining panel board
+Grab the spanner from tool box
+Open the Shaft screw using the spanner ( show the bolt animation of being opened)
+Grab the shaft cover and place it in the designated area
+Grab the compressed air gun
+Point the gun into the machine and clean it using the compressed air
+Grab the shaft cover and screw back
+Grab the tool Spanner and Close the cover
+Simulation completed
+--------STOP--------
+--------STOP--------

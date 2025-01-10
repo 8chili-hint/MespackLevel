@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 6067fbd669aa66b40826356fbe12f7c2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom_Sealer_Metal
+    second: {fileID: 2100000, guid: 695bc45d68c3aa64c9b2561f4843c0ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom_Sealer_fuse
+    second: {fileID: 2100000, guid: 6fccff4060d91c64e98b348956c7f0c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom_Sealer_rotators
+    second: {fileID: 2100000, guid: e03ce2d142e700f48818a84a8e75a0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom_Sealer_screw
+    second: {fileID: 2100000, guid: 19807206cb9097a4a9676b97e8414339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom_Sealer_wire
+    second: {fileID: 2100000, guid: c1e42b96e1a8a744a9a7e450b1e284e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Broad_Sealer_metal
+    second: {fileID: 2100000, guid: ec05bddc3384c684bbb729057deb26e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Broad_Sealer_rotators
+    second: {fileID: 2100000, guid: f4cf8d509f54b0645a0c99cce65a5130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Broad_Sealer_screw
+    second: {fileID: 2100000, guid: bcd9c04cf162cf54ba7d826c359431d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clipper_end_sensor_SS
+    second: {fileID: 2100000, guid: 5948ad23b6f09c242a861d39c9c76c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clipper_end_sensor_green_light
+    second: {fileID: 2100000, guid: b6b1f9b453116aa4e8e7cb9a3b536a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clipper_end_sensor_metal
+    second: {fileID: 2100000, guid: c485fbf7d61c52c4db3ddd69bcd93774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clipper_end_sensor_orange_wire_part
+    second: {fileID: 2100000, guid: b1d26e3876b03d342a73bbba8508df9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clipper_end_sensor_red_sensor
+    second: {fileID: 2100000, guid: 25ba7a4285590dd4ab2d5469c43c1f8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clipper_end_sensor_wire
+    second: {fileID: 2100000, guid: 33877dbc65001e94a93615c32be63490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_black_cam_and_wire
+    second: {fileID: 2100000, guid: 139fe72345226214db9e2cc612a0c771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_dark_metal
+    second: {fileID: 2100000, guid: 83ec22a93ad37c44bb63281c44ab0e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_green_wire
+    second: {fileID: 2100000, guid: 6e27c37f328abd840aaa98106e192583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_heating_plate
+    second: {fileID: 2100000, guid: b0a0ef226c357924f867fc50c3588542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_light_metal
+    second: {fileID: 2100000, guid: ba198deaa3fb81643b8865c5bab3f252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_metal
+    second: {fileID: 2100000, guid: b74f30af71b2da54fad32791b1792886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_screw
+    second: {fileID: 2100000, guid: 20268d978b5930b47995ec36c1ccd702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_tranclusent_wire
+    second: {fileID: 2100000, guid: 2a24b0a44152c254d8f4ad788e52ef5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_white_wire
+    second: {fileID: 2100000, guid: 380c3e8c3de7e824fb1cdeeaaeb08383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Slider_yellow_wire
+    second: {fileID: 2100000, guid: 21e3b8e5be56e594bbbbaaa5650a4684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photocell__black_aprt
+    second: {fileID: 2100000, guid: 8d2cb88dd402acc45b47e56fd9516810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photocell__button
+    second: {fileID: 2100000, guid: 9c3a4f7fe0faed6469360c65120df74b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photocell__sensor
+    second: {fileID: 2100000, guid: d5c327a591d55204e91396a26514292f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photocell_metal
+    second: {fileID: 2100000, guid: 65e2c01a6132498409abf825cbc80041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photocell_orange_wire
+    second: {fileID: 2100000, guid: db0c70ecfeb260d4fa6cacbe9147a743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reel_guide_SS
+    second: {fileID: 2100000, guid: 58dfa3a9b413f9e4bb8d6f3df70f4db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reel_guide_metal
+    second: {fileID: 2100000, guid: 24af98666593e89469bb790471b7a85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire__Golden_color
+    second: {fileID: 2100000, guid: cbfc78cd0ecd8b940b1d5b10d21df981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire__SS
+    second: {fileID: 2100000, guid: dbc2c42acd74ba5449cc1a329caa9663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire__black_knob
+    second: {fileID: 2100000, guid: 18574bce59b7f174bb21304f40ea07c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire__grey_wire
+    second: {fileID: 2100000, guid: 853cc409aaa0e0f488da1d0ae4d30b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire__red_sensor
+    second: {fileID: 2100000, guid: bc94bbc4b8043bd4b836574e87998131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire__screw
+    second: {fileID: 2100000, guid: 6b55badb53d739540b509538e1d1a644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire_black_wire
+    second: {fileID: 2100000, guid: 8c3c166838bb2d543a8ab2f6d28c9f8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire_metal
+    second: {fileID: 2100000, guid: 5795e3ea81038034a88c6ee40a0cda35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roller_box_and_wire_orange_wire
+    second: {fileID: 2100000, guid: 6d62419689174f346abab78d8b69dec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tear_notch_SS
+    second: {fileID: 2100000, guid: 869014252e85bf04d807682835aefd68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tear_notch_metal
+    second: {fileID: 2100000, guid: 25ea76b983a3bd04080dea710c027107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tear_notch_wire
+    second: {fileID: 2100000, guid: f450cd9f8791e304b92cabbb6b78c9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_1_fuse
+    second: {fileID: 2100000, guid: aef87ae73ed6a92479c76389d44cf1b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_1_metal
+    second: {fileID: 2100000, guid: 06a8bdcc33c89df4dae21499a8ca37c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_1_rotators
+    second: {fileID: 2100000, guid: e920f7424cbba8749beed2f85f90c1bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_1_screw
+    second: {fileID: 2100000, guid: 8690c4c17ca81fa47a68966b7e1cf99e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_1_wire
+    second: {fileID: 2100000, guid: fa9740c400a0c2643ad7d06a511f2c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_1_wire_metal
+    second: {fileID: 2100000, guid: e546da50122918347951c4fab2211d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_2_fuse
+    second: {fileID: 2100000, guid: 0d7686634d77dbc45855507ba96a6162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_2_metal
+    second: {fileID: 2100000, guid: 6e4bd5f8c5e931942971884b5441eec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_2_rotator
+    second: {fileID: 2100000, guid: 500a073b586dffd48a82b50c0fe17987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_2_screw
+    second: {fileID: 2100000, guid: 0228ba824ef0b554998b4143704a0e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_2_wire
+    second: {fileID: 2100000, guid: 076713e416f5cf84e89de1861376e553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_2_wire_metal
+    second: {fileID: 2100000, guid: 2722315720ee4d74b96df81cb4f4a91c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_3_fuse
+    second: {fileID: 2100000, guid: b5b1b90c63720a0478b4e5adb69967fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_3_metal
+    second: {fileID: 2100000, guid: f5c385eea76318844a79a66b1a698514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_3_rotaors
+    second: {fileID: 2100000, guid: c46f212b759b44f40a50539e6f348126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_3_screw
+    second: {fileID: 2100000, guid: ab9a1193120cb8841a5775fe61f04ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_3_wire
+    second: {fileID: 2100000, guid: f96eec88a4578684b9f935ae884bcc0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_3_wire_metal
+    second: {fileID: 2100000, guid: c32cdaf185275764da80a7eeb0a14cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_4_fuse
+    second: {fileID: 2100000, guid: c226be0785946c841a2f3cae9016adaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_4_metal
+    second: {fileID: 2100000, guid: 0b72457f485a30247b1e354a7fd84c58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_4_rotator
+    second: {fileID: 2100000, guid: d853db8ab9e335b4eacc43702da1707b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_4_screw
+    second: {fileID: 2100000, guid: 02f610a6d8f09134dba91aba7b754a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_4_wire
+    second: {fileID: 2100000, guid: 43769ad30677e4a4aa44ce9dc6f8ebcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical_sealer_4_wire_metal
+    second: {fileID: 2100000, guid: 1596b02f902059e428df9ab505563900, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

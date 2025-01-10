@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: ea861c4d24ae68148a07bbedc3b1c184
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Labels
+    second: {fileID: 2100000, guid: 449e4269f6bcdd449ba8028002730ad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_Conveyor
+    second: {fileID: 2100000, guid: e55582e9e529b064685978ea401991e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_Glass
+    second: {fileID: 2100000, guid: e6150c01ff011bc40ac421f064392a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_PlasticBlack
+    second: {fileID: 2100000, guid: 9ba1ee8d0a5ea8a44a26d9d73d0aca58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_PlasticGray
+    second: {fileID: 2100000, guid: 48b096845a7dac24db4e4498514fbfc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_PlasticGreen
+    second: {fileID: 2100000, guid: a964c7a751832a842bc10d97fcdccc25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_PlasticRed
+    second: {fileID: 2100000, guid: b84c221d7c0570b4c8575e08ea99890f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_PlasticWhite
+    second: {fileID: 2100000, guid: 11fb2f68c487342468ccc621f64c0e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_PlasticYellow
+    second: {fileID: 2100000, guid: c22ca9cc0db58604bb07b75fa0bac11c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_RedEmissive
+    second: {fileID: 2100000, guid: bbb11378c7242b24d9e2a29d10c190e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_Screen
+    second: {fileID: 2100000, guid: 746670ce54df7254f8df7468c8617712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_Steel
+    second: {fileID: 2100000, guid: 3864b9f7464acfc4290fb24bbed7f273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_Conveyor1
+    second: {fileID: 2100000, guid: 93cb4424b3c532f42a5d0a1280c2b196, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_Conveyor2
+    second: {fileID: 2100000, guid: 12981d440b3a2dd4784b8e5c7293e1da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_Glass
+    second: {fileID: 2100000, guid: fe58e6deb1a8c2849b97819ed678f147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_PlasticBlack
+    second: {fileID: 2100000, guid: 5dc09b3583c2bfd47a41f935022cc825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_PlasticGreen
+    second: {fileID: 2100000, guid: 0c7b899c78e2fe044b62b2f60a916893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_PlasticRed
+    second: {fileID: 2100000, guid: 47d2602077f1ad240873be6e96129b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_PlasticWhite
+    second: {fileID: 2100000, guid: 59cc77760255e674ba8f1608d180e8e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_Steel
+    second: {fileID: 2100000, guid: 73f71825ef9a4d747886cd348df30750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_Steel2
+    second: {fileID: 2100000, guid: 36993fe07fe470445b36449a5e6d9bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part3_Conveyor
+    second: {fileID: 2100000, guid: 3997d2795e35a3a4495f88299eba6059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part3_PlasticBlack
+    second: {fileID: 2100000, guid: 7cbc236d1bbe6094895cc2ed63e31e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part3_PlasticWhite
+    second: {fileID: 2100000, guid: 50ef310631c5a8643a11f8bc33621059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part3_Steel
+    second: {fileID: 2100000, guid: f81fabd1e67e4464383408381fb69cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part4_Conveyor
+    second: {fileID: 2100000, guid: 906f961af09849c4f955d91365ec0e45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part4_PlasticBlack
+    second: {fileID: 2100000, guid: 07d018c4f33d2684c80cf56ba8a59908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part4_PlasticWhite
+    second: {fileID: 2100000, guid: 186adfc55fc613341a4db9dfb8b2180d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part4_Steel
+    second: {fileID: 2100000, guid: 0fa32f3bb43b59a44aa64732129db7a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part4_Steel2
+    second: {fileID: 2100000, guid: a00b79ddad3abd04191798b4f0020151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_Conveyor
+    second: {fileID: 2100000, guid: 1ac0f56eccbf6a847a241218c65efdc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_GreenEmissive
+    second: {fileID: 2100000, guid: 93a062a67c044fd41b02c219454ea173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_OrrangeEmissive
+    second: {fileID: 2100000, guid: 6784166cd7f27684cb24f7f3ed8ba8c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_PlasticBlack
+    second: {fileID: 2100000, guid: 1c327dbca01a37c47a1d568261e37bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_PlasticBlue
+    second: {fileID: 2100000, guid: 1f2e2a429b4105f448e1edd7e85f6978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_PlasticRed
+    second: {fileID: 2100000, guid: 528b377e69a1b3b42a9e03819a87424e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_PlasticWhite
+    second: {fileID: 2100000, guid: d4821406264843f4386469cb9da0d0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_RedEmissive
+    second: {fileID: 2100000, guid: cd03ba94a76396e4ebc161d9aafdf02a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_Screen
+    second: {fileID: 2100000, guid: b3c43062784f4e040bd5a24230fa8f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part5_Steel
+    second: {fileID: 2100000, guid: dce3d3bc684fda34997d1ddadc48aedb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part6_PlasticBack
+    second: {fileID: 2100000, guid: 9524ed3096baa894089d8aa04bb2bbcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part6_PlasticBlue
+    second: {fileID: 2100000, guid: e9f988ef232f58c45b82111300b821f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part6_PlasticGray
+    second: {fileID: 2100000, guid: 4bc1a76503134d247b4fd3d3f0bac745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part6_Steel
+    second: {fileID: 2100000, guid: 12f56532322423b4c81fb856553a94b1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 64
+    secondaryUVMinObjectScale: 8
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

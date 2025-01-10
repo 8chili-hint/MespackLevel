@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 21df2fa353419834493a15e407181a03
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Base_Met
+    second: {fileID: 2100000, guid: ba3431a22f05d644aa4c7c83be13a611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Black_Plastic
+    second: {fileID: 2100000, guid: 94a6ea85d88fb8443803863b97b8950c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Blue_Light_Sensor
+    second: {fileID: 2100000, guid: 606ae8aa2cc199f4e85c8a3c79d248e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Gray_Met
+    second: {fileID: 2100000, guid: 82e4e5f2dc62f5a4fbef01d892ecb5db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Green_Light_Sensor
+    second: {fileID: 2100000, guid: 8ef60cbde66b7ef49b01575827251e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Main_Met
+    second: {fileID: 2100000, guid: d5f974b3cfb21d04ba5764ad19d23d2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Red_Light_Sensor
+    second: {fileID: 2100000, guid: d2da4b7b5244b844eab4b0e10265184a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Red_Plastic
+    second: {fileID: 2100000, guid: 6c6e36ffbdd4fba40869f5e93373ce4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Thin_Glass
+    second: {fileID: 2100000, guid: b532e168073f8424b9a747108a3f7fed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Whight_Plastic
+    second: {fileID: 2100000, guid: bf9cbf742c3cf504ca5343d340d9fd0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_1_Yellow_Plastic
+    second: {fileID: 2100000, guid: 6f8f0371aac423041a36108ecf7d30ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Base_Met
+    second: {fileID: 2100000, guid: 6a47f256dfb1c674f93ff847ed7e1635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Black_Plastic
+    second: {fileID: 2100000, guid: 1cc0e12ae4daea14d910b6c19355700f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Gray_Met
+    second: {fileID: 2100000, guid: 2e8ce924df61bf347bbc3c30d6284e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Green_Light_Sensor
+    second: {fileID: 2100000, guid: e8e9d59c0f40a3d4491bddc1a68b6f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Main_Met
+    second: {fileID: 2100000, guid: 5d224fba3d56e6e4eb290240d095e04c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Red_Light_Sensor
+    second: {fileID: 2100000, guid: 395241f52ac87df4192255d855b455d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Red_Plastic
+    second: {fileID: 2100000, guid: c6b62d0cc8702fd4bac0b7453192f201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Whight_Plastic
+    second: {fileID: 2100000, guid: b5a5cc91d0e3cec4080f25290c225995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Wire_Black
+    second: {fileID: 2100000, guid: 56f893968160327498a81a57888f7c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Wire_Gray
+    second: {fileID: 2100000, guid: 5b1370f2baccafe4f925e7e112950c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Wire_Green
+    second: {fileID: 2100000, guid: 2dd9298c9c13c274d86d1aa3e8651090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Out_2_Yellow_Light_Sensor
+    second: {fileID: 2100000, guid: 2bb29cfaf58593041ad0f1bfff516865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_1_Black_Plastic
+    second: {fileID: 2100000, guid: 274adc27df240d349b5fe3905c2cfe98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_1_Gray_Met
+    second: {fileID: 2100000, guid: f0e923c7989620f46924c0a2dd741b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_1_Gray_Plastic1
+    second: {fileID: 2100000, guid: 3042c35fec1f82b4e8ce1ba3ed155634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_1_Main_Met
+    second: {fileID: 2100000, guid: bfe89e56a215c1540be3ec3b344fb1b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_1_Wire_Gray
+    second: {fileID: 2100000, guid: 66a9ba3258cfd5749bcbbb604c03af41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_1_Wire_Orange
+    second: {fileID: 2100000, guid: f91bfd9e6fe184749a28e02fb4bfe221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Base_Met
+    second: {fileID: 2100000, guid: 2f31295de67658e4793d2bc85b38f391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Black_Plastic
+    second: {fileID: 2100000, guid: 41ec6959348cd974eaab87b254b30659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Blue_Plastic
+    second: {fileID: 2100000, guid: bc36f6d7a402ca243b4be0f860b54bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Golden
+    second: {fileID: 2100000, guid: 8316e5f438375954a89230f50917b20d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Gray_Met
+    second: {fileID: 2100000, guid: e6a1e94638df1494bae4edaf71b86bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Green_Light_Sensor
+    second: {fileID: 2100000, guid: af1aac3a310574c44b5ed780111e77fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Main_Met
+    second: {fileID: 2100000, guid: 44383d9bf82ef434e9aaf9830f3cada7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Red_Light_Sensor
+    second: {fileID: 2100000, guid: 1c3a2e66ecf8dba469b97adcf533fde3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Red_Plastic
+    second: {fileID: 2100000, guid: 8b35d11c459526348bc7407724c2935b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Whight_Plastic
+    second: {fileID: 2100000, guid: 3bb2a84db38342d449cc67cf431e1f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_2_Yellow_Plastic
+    second: {fileID: 2100000, guid: 75f849b844b59df4da5175c8567e72d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_3_Base_Met
+    second: {fileID: 2100000, guid: 0d7cb955cc6b05547af04a527f70070f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_3_Whight_Wire
+    second: {fileID: 2100000, guid: 78a1fd1b3338a39459988de1e357f383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_3_Wire_Black
+    second: {fileID: 2100000, guid: 2c3a9032fdb38614eb65b05a87848e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_3_Wire_Gray
+    second: {fileID: 2100000, guid: 6df98f243d8f5d344919c7c51ade9425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_3_Wire_Orange
+    second: {fileID: 2100000, guid: d8c849be2f674024c98b0cb17801097a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Base_Met
+    second: {fileID: 2100000, guid: 63e8b80d4010d6148902ff5d228b0850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Black_Plastic
+    second: {fileID: 2100000, guid: b0c8f2eac04e9f94fa8a586f5f8ff008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Blue_Plastic
+    second: {fileID: 2100000, guid: 8b7d1725105c93f4e8867eaa945dc052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Golden
+    second: {fileID: 2100000, guid: e2eca57a4443df344a32f770d6ec4d7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Gray_Met
+    second: {fileID: 2100000, guid: da0cdd93e5987c644968bc90cff1eaeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Gray_Plastic1
+    second: {fileID: 2100000, guid: 191a5793c1a98e94c94b5dd807e441a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Main_Met
+    second: {fileID: 2100000, guid: a3652bf718421f142ab3c045949c4b7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Red_Light_Sensor
+    second: {fileID: 2100000, guid: 78c38bd0fb78973409c1306550903478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Red_Plastic
+    second: {fileID: 2100000, guid: d6753a20637f37643bd22c31e9372c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Whight_Plastic
+    second: {fileID: 2100000, guid: 8a38dc6a81e41c5489588f08a3b3235d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_4_Wire_Orange
+    second: {fileID: 2100000, guid: 20a24915ccd97e640bc32fce15ebe426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_5_Base_Met
+    second: {fileID: 2100000, guid: b44fee6c71661af43b81c4abab2e4a5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_5_Black_Plastic
+    second: {fileID: 2100000, guid: 9a04b61e6aa6ab941859c022acdd75d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_5_Gray_Met
+    second: {fileID: 2100000, guid: edbbd5e7d170c084ca2e0bf21da6a093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_5_Whight_Plastic
+    second: {fileID: 2100000, guid: 1ae5e47ec1a53cd41a9848b992b4c781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_5_Wire_Black
+    second: {fileID: 2100000, guid: ee9f393cd315a37419bfbbc7ca9fead3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_5_Wire_Gray
+    second: {fileID: 2100000, guid: 05eee8bcf2c61c84496a5c40e7ed9cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_6_Base_Met
+    second: {fileID: 2100000, guid: a276c554ece578843a1ab1a0f805c74b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_6_Black_Plastic
+    second: {fileID: 2100000, guid: 0e4a5a0b922f9a44eb0190407c1aa317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_6_Gray_Met
+    second: {fileID: 2100000, guid: 43f38a67dffafe946a1f67881c15bb88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_6_Main_Met
+    second: {fileID: 2100000, guid: 9f5c51a81ad2adf439181448d121bef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_6_Whight_Plastic
+    second: {fileID: 2100000, guid: 0da2b2601435ccb4686ffff3de121dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Part_6_Wire_Black
+    second: {fileID: 2100000, guid: 6edaa3989967af8489d263e0d920016c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Box_Screen1
+    second: {fileID: 2100000, guid: fb346d1d756ed204da7848a16e8e42c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Box_Tex
+    second: {fileID: 2100000, guid: 0b0ff98072731174fa8b0436ac745c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: f8fbfee9d67ec814daea69fee65472fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Stickers_Tex
+    second: {fileID: 2100000, guid: ff2c0cbd3238b4645ac54b627be480ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emergency_Switch_Tex
+    second: {fileID: 2100000, guid: f02942474bc476d4f925b37b47bcbd70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass1
+    second: {fileID: 2100000, guid: 7f604b58904a48446a822bd9413aecad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MP_Update_Base_Met
+    second: {fileID: 2100000, guid: eccd7f8392f1abc4f8888286d649217d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MP_Update_Black_Plastic
+    second: {fileID: 2100000, guid: d5be6cb20e7b79d40b7cc97b7b6a3b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MP_Update_Blue_Light_Sensor
+    second: {fileID: 2100000, guid: cd056a86ed676e8448b8abecc4571a85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MP_Update_Gold_Met
+    second: {fileID: 2100000, guid: 1a44db69d9363b54ab1ef9b22f6c3338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MP_Update_Gray_Met
+    second: {fileID: 2100000, guid: 56d9c3a960a835545ba2e1ecbac503ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MP_Update_Main_Met
+    second: {fileID: 2100000, guid: 5361aa259fc492947bc228e0c6d58787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MP_Update_Wire_Gray
+    second: {fileID: 2100000, guid: 43c89021f2af9904182ea0eada65a0e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_2_Base_Met
+    second: {fileID: 2100000, guid: 2b44c9cb3618a0841af55e466a9d3371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_2_Gray_Met
+    second: {fileID: 2100000, guid: 607cbbb90a28e59439cd649cbfbd6f14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_2_Gray_Plastic
+    second: {fileID: 2100000, guid: 9a7bbf9e335ce9549bbc65b6c0e89da8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_3_Base_Met
+    second: {fileID: 2100000, guid: 92551c3f6bdbca24b8119f79eec6073a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_3_Black_Plastic
+    second: {fileID: 2100000, guid: b7d2e098aafaf25438374f985fd5399e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_3_Wire_Gray
+    second: {fileID: 2100000, guid: 358842dd237a4644e95a403762937498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_Uv_1_Base_Met
+    second: {fileID: 2100000, guid: 71f0b434ee54ab54b9c2f6d8ee4a401a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_Uv_1_Gray_Plastic
+    second: {fileID: 2100000, guid: c1d8f0915083dc5499f5765657990409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_Uv_1_Red_Plastic
+    second: {fileID: 2100000, guid: e10d054f97bef0a469912e7277ba8330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_Uv_1_Yellow_Plastic
+    second: {fileID: 2100000, guid: 7e6d071a9bd40c643b745d111b70f724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Part_Tex_Uv_2_Gray_Plastic
+    second: {fileID: 2100000, guid: e0ec97f99f90c5a449b127b2fe9295c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine_Stickers1
+    second: {fileID: 2100000, guid: 566277ab2685aa74c8756672b09312f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Base_Met
+    second: {fileID: 2100000, guid: 15afa9a8636bf3646ab21f8500478007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Black_Plastic
+    second: {fileID: 2100000, guid: c055caf13ac618840890c7780a368f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Blue_Plastic
+    second: {fileID: 2100000, guid: dea0310c6b94b1f44905ad8f475cb6b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Gray_Met
+    second: {fileID: 2100000, guid: c56ace25fb04f5e4c94cbeafd91ace4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Main_Met
+    second: {fileID: 2100000, guid: 5fa824e6cc530c54daaba395f4bd02c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Orange_Light_Sensor
+    second: {fileID: 2100000, guid: 8004504b350c37143bcc2ed18c9df95b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Red_Plastic
+    second: {fileID: 2100000, guid: a2e8cb834b1f33146a55bd7cb04a7de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Whight_Plastic
+    second: {fileID: 2100000, guid: e8da2d088e5ca4c479aadbc6cf4cecb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Wire_Blue
+    second: {fileID: 2100000, guid: 27135ed53f2b8c7499ee4e9d73c3a6ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move_Part_Wire_Orange
+    second: {fileID: 2100000, guid: 8809fdb525ed94944ad5f39ada66edd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Paper1
+    second: {fileID: 2100000, guid: f48020bf7a371204bbd829b75f1e9aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_Box_Screen_2_Tex
+    second: {fileID: 2100000, guid: b14313f702289f441975ff07ec1a4186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_Box_Tex
+    second: {fileID: 2100000, guid: 1dba14f12ad479942963f9b492e3534c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Box_Screen1
+    second: {fileID: 2100000, guid: 2ff56244b187efa44a565c5eabb59454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Box_Screen_Bas
+    second: {fileID: 2100000, guid: 1c1e70d07567b7d40bb57e3fccc3959a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Box_Stickers1
+    second: {fileID: 2100000, guid: fa231d8c61edff242900f378ec26e123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_1_Box_Part
+    second: {fileID: 2100000, guid: d716228b662b2cb40a53bd302a960ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_1_Sick_Sticker
+    second: {fileID: 2100000, guid: 9320727fa54a5c6489ca28fa1b922d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tv_Screen1
+    second: {fileID: 2100000, guid: 7f2ff72ff15907f4cafc9a8a984912b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tv_Stickers1
+    second: {fileID: 2100000, guid: 5853bbb247dbd0e4fba120a1d8b011cd, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
